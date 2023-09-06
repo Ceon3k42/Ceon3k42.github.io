@@ -1,1 +1,1 @@
-# Ceon3k42.github.io
+The repository for the [Ceon 3k42](https://ceon3k42.github.io/) website.<br><br>Made by [Ellen](https://github.com/elliewellie), [Shan-Mei](https://github.com/shan-mei) and [Suna](https://github.com/sunaxna) for an **English Project**
