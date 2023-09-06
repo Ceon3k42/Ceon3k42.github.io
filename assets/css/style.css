@@ -1,1 +1,38 @@
+body {
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #1E1E2E;
+    color: #a643c4;
+}
 
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+a {
+    color: #bcdff5;
+    background-color: #28283d;
+    border-radius: 3px;
+}
+
+a:hover {
+    color: #77b3d9;
+}
+
+a:visited {
+    color: #758deb;
+}
+
+.home {
+    color: #bbfcc4 !important;
+}
+
+.home:hover {
+    color: #92e89e !important;
+}
+
+.footer {
+    background-color: #28283d;
+    color: #FFFFFF;
+}
