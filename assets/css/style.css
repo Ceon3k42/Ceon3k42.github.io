@@ -1,3 +1,10 @@
+@font-face {
+    font-family: Blueberry;
+    src: url("../css/Blueberry_Regular_400_1_.ttf");
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
 body {
     margin-left: 100px;
     margin-right: 100px;
@@ -8,6 +15,7 @@ body {
 h1 {
     text-align: center;
     font-size: 50px;
+    font-family: 'Blueberry';
 }
 
 a {
