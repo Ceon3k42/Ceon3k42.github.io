@@ -3,7 +3,10 @@
     src: url("../css/Blueberry_Regular_400_1_.ttf");
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+@font-face {
+    font-family: Gloria;
+    src: url("../css/GloriaHallelujah-Regular.ttf");
+}
 
 body {
     margin-left: 100px;
@@ -16,6 +19,12 @@ h1 {
     text-align: center;
     font-size: 50px;
     font-family: 'Blueberry';
+    color: #bbfcc4;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: "Gloria";
+    color: #bbfcc4;
 }
 
 a {
@@ -30,14 +39,6 @@ a:hover {
 
 a:visited {
     color: #758deb;
-}
-
-.home {
-    color: #bbfcc4 !important;
-}
-
-.home:hover {
-    color: #92e89e !important;
 }
 
 .footer {
