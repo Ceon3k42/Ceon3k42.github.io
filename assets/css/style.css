@@ -8,11 +8,17 @@
     src: url("../css/GloriaHallelujah-Regular.ttf");
 }
 
+@font-face {
+    font-family: Quicksand;
+    src: url("../css/Quicksand-VariableFont_wght.ttf");
+}
+
 body {
     margin-left: 100px;
     margin-right: 100px;
     background-color: #1E1E2E;
     color: #a643c4;
+    font-family: "Quicksand";
 }
 
 h1 {
