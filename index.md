@@ -1,4 +1,3 @@
 # Ceon 3k42
 ### About
-Wow wow new planet  
-I can't believe it.
+Ceon3k42 is a newly discovered celestial marvel situated perilously close to the event horizon of a supermassive black hole known as Sagittarius A* in the distant recesses of the Milky Way galaxy. This unique planet's most striking features include its breathtaking ring system and its proximity to the formidable black hole. While Ceon3k42 is inherently uninhabitable, it has captivated the imagination of astronomers, scientists, and humanity at large due to its exceptional properties and its potential to expand our understanding of the cosmos.
