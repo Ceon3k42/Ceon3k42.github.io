@@ -12,7 +12,19 @@ Also known as the Red Crawler, the Rubrum Crawlis looks like a soft fern of sort
 The Rubrum Crawlis was named by NASA exploration team for its characteristic leaves and its abundancy as groundcover.
 
 #### Botany
-The grow to heights of 20cm. Each leaf can span up to one metre in diameter. There are no flowers or fruit present on the plant, therefore scientists came to the conclusion that they store seeds inside their leaves, or there are no seds at all.
+The grow to heights of 20cm. Each leaf can span up to one metre in diameter. There are no flowers or fruit present on the plant, therefore scientists came to the conclusion that they store seeds inside their leaves, or there are no seeds at all.
 
 #### Growth
 Scientists are unsure of how long it takes for the Rubrum Crawlis to grow and develop. However, the soils have been measured to be extremely alkaline (16pH). There appear to be no water on the planet, so the plant thrives under dry, alkaline conditions. 
+
+### Caeruli Formidulus
+The Caeruli Formidulus is also known as the Blue Creepy Thing. It has bright, blue flowers with yellow spots on them, and they have broad, purple, waxy leaves. When you go near the plant, it stretches towards you.
+
+#### Taxonomy
+The plant's flowers are blue, thus having it named "blue." The scientists found it really scary that the plant followed the people, therefore they dubbed it "creepy"
+
+#### Botany
+It reaches towering heights, heights estimated up to 20m. Flowers are huge, being 3 or 4 meters in diameter. Seeds appear to be the yellow spots on the flower, but scientists ar not sure.
+
+#### Growth
+It grows on soils of 15pH, and it seems that it does not intake any water. Cutting off the plant, it appeared as if a large amount bromine is released, prompting scientists to believe that it grows on the abundancy of bromine in the air.
