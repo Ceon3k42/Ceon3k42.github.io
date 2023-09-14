@@ -13,7 +13,7 @@ This planet orbits dangerously close to Sagittarius A*, a supermassive black hol
 Ceon3k42's surface is characterized by rugged terrain, towering mountain ranges, deep canyons, and active volcanic activity. Molten lava flows across the planet's surface, shaping its harsh and unforgiving landscape.
 
 #### Atmosphere
-The planet possesses a thin and inhospitable atmosphere primarily composed of noxious gases, rendering it incapable of sustaining human life, but able to house certain plant and animal life with physical adaptations to breath in the toxic atmosphere.
+The planet possesses a thin and inhospitable atmosphere primarily composed of noxious gases, rendering it incapable of sustaining human life, but able to house certain plant and animal life with physical adaptations to breath in the toxic atmosphere. Gases comprise heavily of bromides and chlorides
 
 #### Life
 Ceon3k42 is the first planet in the solar system other than Earth where life has been found. The life consists of unusual looking animals with appearances ranges from unusual coloured furs to rocky-scaly textured skin to combat the lava-like surface of the planet. There are also some microscopic things that move in high velocities. Scientists are working on whether these animals could be distant relatives of Earth's animals.<br><br>There are some plant-like structures on the planet. They slightly resemble a mesh between seaweed and ferns, and they come in a variety of colours, including reds, purples, blacks and oranges. 
