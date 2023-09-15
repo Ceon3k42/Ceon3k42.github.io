@@ -12,14 +12,14 @@ This planet orbits dangerously close to Sagittarius A*, a supermassive black hol
 #### Geography
 Ceon3k42's surface is characterized by rugged terrain, towering mountain ranges, deep canyons, and active volcanic activity. Molten lava flows across the planet's surface, shaping its harsh and unforgiving landscape.
 
+#### Moons
+Ceon3k42 has a count of at least 20 moons. However, they are yet to be named and counted. They have an extremely complex orbit (somewhat resembling electron shells).
+
 #### Atmosphere
-The planet possesses a thin and inhospitable atmosphere primarily composed of noxious gases, rendering it incapable of sustaining human life, but able to house certain plant and animal life with physical adaptations to breath in the toxic atmosphere. Gases comprise heavily of bromides and chlorides
+The planet possesses a thin and inhospitable atmosphere primarily composed of noxious gases, rendering it incapable of sustaining human life, but able to house certain plant and animal life with physical adaptations to breath in the toxic atmosphere. Gases comprise heavily of iodides, which make the purples hues of the planet. There are also chlorides, forming some green spots. Scientists are unsure of what is causing the blue hues, they believe it is copper chloride gasses.
 
 #### Life
-Ceon3k42 is the first planet in the solar system other than Earth where life has been found. The life consists of unusual looking animals with appearances ranges from unusual coloured furs to rocky-scaly textured skin to combat the lava-like surface of the planet. There are also some microscopic things that move in high velocities. Scientists are working on whether these animals could be distant relatives of Earth's animals.<br><br>There are some plant-like structures on the planet. They slightly resemble a mesh between seaweed and ferns, and they come in a variety of colours, including reds, purples, blacks and oranges. 
+Ceon3k42 is the first planet in the solar system other than Earth where life has been found. The life consists of unusual looking animals with appearances ranges from unusual coloured furs to rocky-scaly textured skin to combat the lava-like surface of the planet. There are also some microscopic things that move in high velocities. Scientists are working on whether these animals could be distant relatives of Earth's animals.<br><br>There are some plant-like structures on the planet. They slightly resemble a mesh between seaweed and ferns, and they come in a variety of colours, including reds, blues and yellows.
 
 #### Gravitational Research
 Ceon3k42's close proximity to the supermassive black hole presents a unique opportunity for astronomers and physicists to study the effects of extreme gravitational forces on celestial bodies. The planet's orbits and the dynamics of its ring system offer valuable insights into the complexities of gravitational interactions in the vicinity of a black hole, contributing to our fundamental understanding of the universe's physical laws.
-
-#### Cosmic Evolution
-By examining Ceon3k42, scientists can gain critical insights into the formation and evolution of planetary systems in the vicinity of supermassive black holes. This knowledge can shed light on the broader processes that have shaped the galaxies and stars within our universe.
