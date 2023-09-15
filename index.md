@@ -1,3 +1,8 @@
 # Ceon 3k42
 ### About
-Ceon3k42 is a newly discovered celestial marvel situated perilously close to the event horizon of a supermassive black hole known as Sagittarius A* in the distant recesses of the Milky Way galaxy. This unique planet's most striking features include its breathtaking ring system and its proximity to the formidable black hole. While Ceon3k42 is inherently uninhabitable, it has captivated the imagination of astronomers, scientists, and humanity at large due to its exceptional properties and its potential to expand our understanding of the cosmos.
+<img src="https://ceon3k42.github.io/planet.png">
+
+Ceon3k42 is a newly discovered situated near the black hole known as Sagittarius A* in Milky Way galaxy. This unique planet's most striking features include its breathtaking ring system and its beautiful shades of purples, blues and greens. Ceon3k42 also supports [life](https://ceon3k42.github.io/life.html), with numerous [plants](https://ceon3k42.github.io/life/plants.html) and [animals](https://ceon3k42.github.io/life/animals.html) found on the planet. To view a full description of the planet, please come [here](https://ceon3k42.github.io/life.html)
+
+##### Art album
+Since NASA's cameras were very quickly destroyed in the environment of Ceon3k42, concept artists drew pictures of the planet, plants and animals. View the full album [here](https://ceon3k42.github.io/album.html)
