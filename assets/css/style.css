@@ -54,3 +54,10 @@ a:visited {
     text-align: center;
     text-decoration: none;
 }
+
+.index {
+    width: 300px;
+    vertical-align: middle;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
