@@ -1,8 +1,6 @@
 # Ceon 3k42
 ### About
-
-Ceon3k42 is a newly discovered situated near the black hole known as Sagittarius A* in Milky Way galaxy. This unique planet's most striking features include its breathtaking ring system and its beautiful shades of purples, blues and greens. Ceon3k42 also supports [life](https://ceon3k42.github.io/life.html), with numerous [plants](https://ceon3k42.github.io/life/plants.html) and [animals](https://ceon3k42.github.io/life/animals.html) found on the planet. To view a full description of the planet, please come [here](https://ceon3k42.github.io/life.html)
-
+<p>Ceon3k42 is a newly discovered situated near the black hole known as Sagittarius A* in Milky Way galaxy. This unique planet's most striking features include its breathtaking ring system and its beautiful shades of purples, blues and greens. Ceon3k42 also supports <a href="https://ceon3k42.github.io/life.html">life</a>, with numerous <a href="https://ceon3k42.github.io/life/plants.html">plants</a> and <a href="https://ceon3k42.github.io/life/animals.html">animals</a> found on the planet. To view a full description of the planet, please come <a href="https://ceon3k42.github.io/life.html">here</a></p>
 <img src="https://ceon3k42.github.io/assets/satellite-planet.png" class="index">
 
 ##### Art album
