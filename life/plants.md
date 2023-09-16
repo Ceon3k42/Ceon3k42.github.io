@@ -7,10 +7,10 @@ Ceon3k42 is very abundant in plant life. The plants which have been seen are not
 
 ### The Rubrum Crawlis
 
-<img src="https://ceon3k42.github.io/assets/red-plant.png" class="index" class="lr">
+<img src="https://ceon3k42.github.io/assets/red-plant.png" class="index">
 <p class="lr">Also known as the Red Crawler, the Rubrum Crawlis looks like a soft fern of sorts, in the colour red. It is a ground-cover plant. The plant itself is extremely difficult to break. It has stiff leaves, despite its resemblance to the soft fern.</p>
 
-<h4 class="lr">Taxonomy</h4>
+#### Taxonomy
 <p class="lr">The Rubrum Crawlis was named by NASA exploration team for its characteristic leaves and its abundancy as groundcover.</p>
 
 <h4 class="lr">Botany</h4>
@@ -20,7 +20,7 @@ Ceon3k42 is very abundant in plant life. The plants which have been seen are not
 Scientists are unsure of how long it takes for the Rubrum Crawlis to grow and develop. However, the soils have been measured to be extremely alkaline (16pH). There appear to be no water on the planet, so the plant thrives under dry, alkaline conditions. 
 
 ### Caeruli Formidulus
-<div class="l4">
+<div class="lr">
   <img src="https://ceon3k42.github.io/assets/blue-plant.png" class="index">
 
   The Caeruli Formidulus is also known as the Blue Creepy Thing. It has bright, blue flowers with yellow spots on them, and they have broad, purple, waxy leaves. When you go near the plant, it stretches towards you.
