@@ -4,19 +4,19 @@ title: album
 
 ## Ceon3k42 Album
 #### Satellite
-<img src="https://ceon3k42.github.io/assets/satellite-planet.png" left=-60px>
+<img src="https://ceon3k42.github.io/assets/satellite-planet.png" class="sat" width=500px>
 
 #### Drawings in real life
 
 #### Plants
 ###### Rubrum Crawlis
-<img src="https://ceon3k42.github.io/assets/red-plant.png">
+<img src="https://ceon3k42.github.io/assets/red-plant.png" width=500px>
 
 ###### Caeruli Formidulus
-<img src="https://ceon3k42.github.io/assets/blue-plant.png">
+<img src="https://ceon3k42.github.io/assets/blue-plant.png" widh=500px>
 
 #### Animals
 ###### Volca Serpent
-<img src="https://ceon3k42.github.io/assets/serpent.png">
+<img src="https://ceon3k42.github.io/assets/serpent.png" width=500px>
 
 ###### Chroma Pelted Driftbeast
