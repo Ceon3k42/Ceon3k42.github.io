@@ -2,30 +2,29 @@
 title: Plant Life
 ---
 
-## Plant Life
+<h2>Plant Life</h2>
 Ceon3k42 is very abundant in plant life. The plants which have been seen are not in high varieties. There have been 2 main plant species - the Rubrum Crawlis and the Caeruli Formidulus
 
-### The Rubrum Crawlis
-<p class="lr">Also known as the Red Crawler, the Rubrum Crawlis looks like a soft fern of sorts, in the colour red. It is a ground-cover plant. The plant itself is extremely difficult to break. It has stiff leaves, despite its resemblance to the soft fern.</p> <img src="https://ceon3k42.github.io/assets/red-plant.png" class="oi" width=250px>
+<h3>The Rubrum Crawlis</h3>
+<p class="lr">Also known as the Red Crawler, the Rubrum Crawlis looks like a soft fern of sorts, in the colour red. It is a ground-cover plant. The plant itself is extremely difficult to break. It has stiff leaves, despite its resemblance to the soft fern.</p><img src="https://ceon3k42.github.io/assets/red-plant.png" class="oi" width=250px>
 
 <h4 class="lr">Taxonomy</h4>
 <p class="lr">The Rubrum Crawlis was named by NASA exploration team for its characteristic leaves and its abundancy as groundcover.</p>
 
-#### Botany
-The grow to heights of 20cm. Each leaf can span up to one metre in diameter. There are no flowers or fruit present on the plant, therefore scientists came to the conclusion that they store seeds inside their leaves, or there are no seeds at all.
+<h4>Botany</h4>
+<p>The grow to heights of 20cm. Each leaf can span up to one metre in diameter. There are no flowers or fruit present on the plant, therefore scientists came to the conclusion that they store seeds inside their leaves, or there are no seeds at all.</p>
 
-#### Growth
+<h4>Growth</h4>
 Scientists are unsure of how long it takes for the Rubrum Crawlis to grow and develop. However, the soils have been measured to be extremely alkaline (16pH). There appear to be no water on the planet, so the plant thrives under dry, alkaline conditions. 
 
-### Caeruli Formidulus
+<h3>Caeruli Formidulus</h3>
+<p>The Caeruli Formidulus is also known as the Blue Creepy Thing. It has bright, blue flowers with yellow spots on them, and they have broad, purple, waxy leaves. When you go near the plant, it stretches towards you.</p><img src="https://ceon3k42.github.io/assets/blue-plant.png" class="oi" width=250px>
 
-The Caeruli Formidulus is also known as the Blue Creepy Thing. It has bright, blue flowers with yellow spots on them, and they have broad, purple, waxy leaves. When you go near the plant, it stretches towards you. <img src="https://ceon3k42.github.io/assets/blue-plant.png" class="oi" width=250px>
+<h4>Taxonomy</h4>
+<p>The plant's flowers are blue, thus having it named "blue." The scientists found it really scary that the plant followed the people, therefore they dubbed it "creepy"</p>
 
-#### Taxonomy
-The plant's flowers are blue, thus having it named "blue." The scientists found it really scary that the plant followed the people, therefore they dubbed it "creepy"
+<h4>Botany</h4>
+<p>It reaches towering heights, heights estimated up to 20m. Flowers are huge, being 3 or 4 meters in diameter. Seeds appear to be the yellow spots on the flower, but scientists ar not sure.</p>
 
-#### Botany
-It reaches towering heights, heights estimated up to 20m. Flowers are huge, being 3 or 4 meters in diameter. Seeds appear to be the yellow spots on the flower, but scientists ar not sure.
-
-#### Growth
-It grows on soils of 15pH, and it seems that it does not intake any water. Cutting off the plant, it appeared as if a large amount bromine is released, prompting scientists to believe that it grows on the abundancy of bromine in the air.
+<h4>Growth</h4>
+<p>It grows on soils of 15pH, and it seems that it does not intake any water. Cutting off the plant, it appeared as if a large amount bromine is released, prompting scientists to believe that it grows on the abundancy of bromine in the air.</p>
