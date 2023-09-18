@@ -6,10 +6,10 @@ title: Plant Life
 Ceon3k42 is very abundant in plant life. The plants which have been seen are not in high varieties. There have been 2 main plant species - the Rubrum Crawlis and the Caeruli Formidulus
 
 ### The Rubrum Crawlis
-Also known as the Red Crawler, the Rubrum Crawlis looks like a soft fern of sorts, in the colour red. It is a ground-cover plant. The plant itself is extremely difficult to break. It has stiff leaves, despite its resemblance to the soft fern. <img src="https://ceon3k42.github.io/assets/red-plant.png" class="oi">
+<p class="lr">Also known as the Red Crawler, the Rubrum Crawlis looks like a soft fern of sorts, in the colour red. It is a ground-cover plant. The plant itself is extremely difficult to break. It has stiff leaves, despite its resemblance to the soft fern.</p> <img src="https://ceon3k42.github.io/assets/red-plant.png" class="oi">
 
-#### Taxonomy
-The Rubrum Crawlis was named by NASA exploration team for its characteristic leaves and its abundancy as groundcover.
+<h4 class="lr">Taxonomy</h4>
+<p class="lr">The Rubrum Crawlis was named by NASA exploration team for its characteristic leaves and its abundancy as groundcover.</p>
 
 #### Botany
 The grow to heights of 20cm. Each leaf can span up to one metre in diameter. There are no flowers or fruit present on the plant, therefore scientists came to the conclusion that they store seeds inside their leaves, or there are no seeds at all.
