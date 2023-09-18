@@ -4,4 +4,4 @@
 <img src="https://ceon3k42.github.io/assets/satellite-planet.png" class="oi" width=350px>
 
 <h3>Art album</h3>
-<p>Since NASA's cameras were very quickly destroyed in the environment of Ceon3k42, concept artists drew pictures of the planet, plants and animals. View the full album [here](https://ceon3k42.github.io/album.html)</p>
+<p>Since NASA's cameras were very quickly destroyed in the environment of Ceon3k42, concept artists drew pictures of the planet, plants and animals. View the full album <a href="https://ceon3k42.github.io/album.html">here</a></p>
