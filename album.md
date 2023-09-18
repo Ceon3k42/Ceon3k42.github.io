@@ -4,7 +4,7 @@ title: album
 
 ## Ceon3k42 Album
 #### Satellite
-<img src="https://ceon3k42.github.io/assets/satellite-planet.png">
+<img src="https://ceon3k42.github.io/assets/satellite-planet.png" left=-60px>
 
 #### Drawings in real life
 
@@ -16,5 +16,7 @@ title: album
 <img src="https://ceon3k42.github.io/assets/blue-plant.png">
 
 #### Animals
-###### Animal 1
+###### Volca Serpent
+<img src="https://ceon3k42.github.io/assets/serpent.png">
+
 ###### Animal 2
