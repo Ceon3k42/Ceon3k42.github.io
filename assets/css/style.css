@@ -67,3 +67,7 @@ a:visited {
     padding: 5px;
     float: right;
 }
+
+.sat {
+    object-position: -50px;
+}
