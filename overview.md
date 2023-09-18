@@ -13,6 +13,7 @@ Ceon3k42 boasts a spectacular ring system that encircles its entire surface. The
 #### Proximity to Black Hole
 This planet orbits dangerously close to Sagittarius A*, a supermassive black hole with a mass millions of times that of our Sun. Its proximity to the black hole subjects it to extreme gravitational forces and tidal effects, which significantly influence its environment and behavior.
 
+<img src="https://ceon3k42.github.io/assets/volcano.png" width=300px class="oi">
 #### Geography
 Ceon3k42's surface is characterized by rugged terrain, towering mountain ranges, deep canyons, and active volcanic activity. Molten lava flows across the planet's surface, shaping its harsh and unforgiving landscape.
 

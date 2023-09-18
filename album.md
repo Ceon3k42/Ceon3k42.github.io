@@ -8,6 +8,7 @@ title: album
 
 #### Drawings in real life
 <img src="https://ceon3k42.github.io/assets/volcano.png" width=450px>
+<img src="https://ceon3k42.github.io/assets/volcano-2.png" width=450px>
 
 #### Plants
 ###### Rubrum Crawlis
