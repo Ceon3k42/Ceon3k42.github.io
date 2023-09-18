@@ -13,7 +13,7 @@ title: album
 <img src="https://ceon3k42.github.io/assets/red-plant.png" width=400px>
 
 ###### Caeruli Formidulus
-<img src="https://ceon3k42.github.io/assets/blue-plant.png" widh=400px>
+<img src="https://ceon3k42.github.io/assets/blue-plant.png" widh=300px>
 
 #### Animals
 ###### Volca Serpent
