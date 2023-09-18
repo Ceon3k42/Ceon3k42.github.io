@@ -19,4 +19,4 @@ title: album
 ###### Volca Serpent
 <img src="https://ceon3k42.github.io/assets/serpent.png">
 
-###### Animal 2
+###### Chroma Pelted Driftbeast
