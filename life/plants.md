@@ -6,7 +6,7 @@ title: Plant Life
 Ceon3k42 is very abundant in plant life. The plants which have been seen are not in high varieties. There have been 2 main plant species - the Rubrum Crawlis and the Caeruli Formidulus
 
 ### The Rubrum Crawlis
-Also known as the Red Crawler, the Rubrum Crawlis looks like a soft fern of sorts, in the colour red. It is a ground-cover plant. The plant itself is extremely difficult to break. It has stiff leaves, despite its resemblance to the soft fern. <img src="https://ceon3k42.github.io/assets/red-plant.png" class="index">
+Also known as the Red Crawler, the Rubrum Crawlis looks like a soft fern of sorts, in the colour red. It is a ground-cover plant. The plant itself is extremely difficult to break. It has stiff leaves, despite its resemblance to the soft fern. <img src="https://ceon3k42.github.io/assets/red-plant.png" class="oi">
 
 #### Taxonomy
 The Rubrum Crawlis was named by NASA exploration team for its characteristic leaves and its abundancy as groundcover.
@@ -19,7 +19,7 @@ Scientists are unsure of how long it takes for the Rubrum Crawlis to grow and de
 
 ### Caeruli Formidulus
 
-The Caeruli Formidulus is also known as the Blue Creepy Thing. It has bright, blue flowers with yellow spots on them, and they have broad, purple, waxy leaves. When you go near the plant, it stretches towards you. <img src="https://ceon3k42.github.io/assets/blue-plant.png" class="index">
+The Caeruli Formidulus is also known as the Blue Creepy Thing. It has bright, blue flowers with yellow spots on them, and they have broad, purple, waxy leaves. When you go near the plant, it stretches towards you. <img src="https://ceon3k42.github.io/assets/blue-plant.png" class="oi">
 
 #### Taxonomy
 The plant's flowers are blue, thus having it named "blue." The scientists found it really scary that the plant followed the people, therefore they dubbed it "creepy"
