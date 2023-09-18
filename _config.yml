@@ -1,1 +1,6 @@
 baseurl: https://ceon3k42.github.io/
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
