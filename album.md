@@ -21,3 +21,4 @@ title: album
 <img src="https://ceon3k42.github.io/assets/serpent.png" width=450px>
 
 ###### Chroma Pelted Driftbeast
+<img src="https://ceon3k42.github.io/assets/bear.png" width=450px>
