@@ -7,7 +7,7 @@ title: album
 <img src="https://ceon3k42.github.io/assets/satellite-planet.png" class="sat" width=500px>
 
 #### Drawings in real life
-<img src="https://ceon3k42.github.io/assets/volcano.png" width=450px>
+<img src="https://ceon3k42.github.io/assets/volcano.png" width=450px><br>
 <img src="https://ceon3k42.github.io/assets/volcano-2.png" width=450px>
 
 #### Plants

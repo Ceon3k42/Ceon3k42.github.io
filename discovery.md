@@ -3,7 +3,7 @@ title: Discovery of Ceon3k42
 ---
 
 ## Discovery of Ceon3k42
-Ceon3k42 was discovered when a very curious young child (unnamed) was looking through her father's telescope one night the August of 3042.
+Ceon3k42 was discovered when a very curious young child (unnamed) was looking through her father's telescope one night in the August of 3042.
 
 "I was looking through daddy's telescope, and a saw a really pretty, glowing, purple planet, so I took a photo with the telescope and showed dad," she says.
 
